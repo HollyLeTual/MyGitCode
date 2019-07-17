@@ -1,12 +1,15 @@
 package QualiTest;
 
+import org.junit.Test;
+
 /**
  * Hello world!
  *
  */
-public class App 
+public class App2GitTest2 
 {
-    public static void main( String[] args )
+    @Test
+	public void App2GitTest2 
     {
         System.out.println( "Hello World!" );
         System.out.println( "Today is a good day!" );
